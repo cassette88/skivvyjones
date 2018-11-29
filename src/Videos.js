@@ -44,15 +44,15 @@ export default class Videos extends Component {
       {/* <button type="button" className="btn btn-success"
         onClick={this.findVideoData.bind(this,'Bjhel5M0pog')}
         >Fetch Data</button> */}
-        <div className="col-lg-4 col-md-6 col-sm-6" align="center">
-        <p>Chile</p>
-          <img src={require('./png250px/cl.png')} alt="chilean flag"/>
-          <p>22883 views</p>
-        </div>
         <div className="col-lg-4 col-md-6 col-sm-6">
          <a href="https://www.pastemagazine.com/"><img className="img-fluid" src={require('./img/paste.png')} alt="paste magazine log"/></a>
            <p>2603 views</p>
            </div>
+        <div className="col-lg-4 col-md-6 col-sm-6" align="center">
+        <p>Argentina</p>
+          <img src={require('./png250px/ar.png')} alt="argentina flag"/>
+          <p>23719 views</p>
+        </div>
            <div className="col-lg-4 col-md-6 col-sm-6">
           <a href="https://www.billboard.com/"><img className="img-fluid" src={require('./img/Billboard_logo.png')} alt="billboard magazine logo"/></a>
            <p>5900 views</p>
