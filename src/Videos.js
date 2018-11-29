@@ -10,7 +10,7 @@ export default class Videos extends Component {
 
   findVideoData(id){
     //id = 'Bjhel5M0pog';
-    axios.get(`https://youtubeanalytics.googleapis.com/v2/reports?dimensions=insightPlaybackLocationDetail&endDate=2018-09-13&filters=video%3D%3D${id}%3BinsightPlaybackLocationType%3D%3DEMBEDDED&ids=channel%3D%3DUCXzIKbnT7VS5V-kQLHzPScQ&maxResults=20&metrics=views&sort=-views&startDate=2008-01-01&key=AIzaSyCyocxUT0MtqKZrKR4HH2WTgFZlVnqm3dA`)
+    axios.get(`https://youtubeanalytics.googleapis.com/v2/reports?dimensions=insightPlaybackLocationDetail&endDate=2018-09-13&filters=video%3D%3D${id}%3BinsightPlaybackLocationType%3D%3DEMBEDDED&ids=channel%3D%3DUCXzIKbnT7VS5V-kQLHzPScQ&maxResults=20&metrics=views&sort=-views&startDate=2008-01-01&key=`)
     .then(res => {
       console.log(res)
     })
@@ -30,16 +30,16 @@ export default class Videos extends Component {
       </div> 
       <div className="row">
       <div className="col-lg-4 col-md-6 col-sm-6">
-      <p>Zenobia Dolli</p>
-      <div className="youtube-player" data-id="WRJeBorpwyY"></div>
+      <p>Dirty Projectors</p>
+      <div className="youtube-player" data-id="qIeCZQemTC0"></div>
       </div>
       <div className="col-lg-4 col-md-6 col-sm-6">
-      <p>commes de garcon</p>      
-      <div className="youtube-player" data-id="WfLBL2MiaS0"></div>
+      <p>Beach House</p>      
+      <div className="youtube-player" data-id="PHbtR8uO81M"></div>
       </div>
       <div className="col-lg-4 col-md-6 col-sm-6">
       <p>Atlas Sound</p>
-      <div className="youtube-player" data-id="3ERY7fvKOzw"></div>
+      <div className="youtube-player" data-id="ZBtW5WTb0qE"></div>
       </div>
       {/* <button type="button" className="btn btn-success"
         onClick={this.findVideoData.bind(this,'Bjhel5M0pog')}
