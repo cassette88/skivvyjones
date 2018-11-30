@@ -7,11 +7,15 @@
  font-size: 125%; 
  margin: 1.5rem;
 }
-
-p {
-  font-family: 'PT Sans', sans-serif;
-
+.blue {
+  color:lightskyblue;
 }
+
+
+  /* font-family: 'PT Sans', sans-serif;
+   */
+
+
 .navspace {
   margin: 4px;
 }

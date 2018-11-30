@@ -27,7 +27,7 @@ export default class Landing extends Component {
       <div style={divStyle}>
        <div className="row">
        <div className="col" align="center">
-      <h1 className ="skivvy">Skivvy Jones (was here)....</h1>
+      <h1 className ="skivvy">Skivvy Jones (was seen here)....</h1>
      
       {/* <p>3,310,490 views</p> */}
       </div>
