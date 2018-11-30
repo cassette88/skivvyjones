@@ -1,3 +1,10 @@
+/* #root {
+  background-color: lightblue;
+} */
+
+.navspace {
+  margin: 4px;
+}
 
 .youtube-player {
   position: relative;

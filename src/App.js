@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
 import './App.css';
-import Videos from './Videos'
+import MainNav from './MainNav';
 
 class App extends Component {
   render() {
     return (
       <div>
-        <Videos/>
+        <MainNav/>
       </div>
     );
   }
