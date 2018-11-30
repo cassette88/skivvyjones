@@ -32,19 +32,19 @@ export default class Landing extends Component {
       <div className="col-lg-4 col-md-6 col-sm-6">
       <p>Dirty Projectors</p>
       <div className="youtube-player" data-id="qIeCZQemTC0">
-      <img src="https://img.youtube.com/vi/qIeCZQemTC0/default.jpg" alt="youtube thumb"/>
+      <a href="https://youtu.be/qIeCZQemTC0"><img src="https://img.youtube.com/vi/qIeCZQemTC0/default.jpg" alt="youtube thumb"/></a>
       </div>
       </div>
       <div className="col-lg-4 col-md-6 col-sm-6">
       <p>Beach House</p>      
       <div className="youtube-player" data-id="PHbtR8uO81M">
-      <img src="https://img.youtube.com/vi/PHbtR8uO81M/default.jpg" alt="youtube thumb"/>
+      <a href="https://youtu.be/PHbtR8uO81M"><img src="https://img.youtube.com/vi/PHbtR8uO81M/default.jpg" alt="youtube thumb"/></a>
       </div>
       </div>
       <div className="col-lg-4 col-md-6 col-sm-6">
       <p>Atlas Sound</p>
       <div className="youtube-player" data-id="ZBtW5WTb0qE">
-      <img src="https://img.youtube.com/vi/ZBtW5WTb0qE/default.jpg" alt="youtube thumb"/>
+      <a href="https://youtu.be/ZBtW5WTb0qE"><img src="https://img.youtube.com/vi/ZBtW5WTb0qE/default.jpg" alt="youtube thumb"/></a>
       </div>
       </div>
       {/* <button type="button" className="btn btn-success"
