@@ -3,6 +3,10 @@
 } */
 
 
+.skivvy {
+ font-size: 125%; 
+ margin: 1.5rem;
+}
 
 p {
   font-family: 'PT Sans', sans-serif;

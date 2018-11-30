@@ -1,6 +1,9 @@
 import React, { Component } from 'react'
 import axios from 'axios';
 
+const divStyle = {
+  backgroundColor: '#f3f9fe'
+}
 
 export default class Landing extends Component {
   constructor(props){
@@ -21,10 +24,11 @@ export default class Landing extends Component {
 
   render() {
     return (
-      <div>
+      <div style={divStyle}>
        <div className="row">
        <div className="col" align="center">
-      <h1>Skivvy Jones</h1>
+      <h1 className ="skivvy">Skivvy Jones (was here)....</h1>
+     
       {/* <p>3,310,490 views</p> */}
       </div>
       </div> 
