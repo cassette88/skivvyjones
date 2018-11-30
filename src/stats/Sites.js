@@ -16,7 +16,7 @@ export default function Sites() {
         </div>
         <div className="col-lg-4 col-md-6 col-sm-6 align-self-center">
       <a href="https://4ad.com/"><img className="img-fluid" src={require('../img/4ad.png')} alt="4ad logo"/></a>
-        <p>4ad Records</p>
+        <p>4AD Records</p>
         </div>
    {/* <button type="button" className="btn btn-success"
      onClick={this.findVideoData.bind(this,'Bjhel5M0pog')}
