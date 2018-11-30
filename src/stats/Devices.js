@@ -12,8 +12,8 @@ export default function Devices() {
         alt="laptop">
         </img>
         <p className="card-text" align="center">Windows: 654,000 views</p>
-        <p className="card-text" align="center">Macintosh: 245440 views</p>
-        <p className="card-text" align="center">Linux: 11379 views</p>
+        <p className="card-text" align="center">Macintosh: 245,440 views</p>
+        <p className="card-text" align="center">Linux: 11,379 views</p>
       </div>
       </div>
       </div>
@@ -26,8 +26,8 @@ export default function Devices() {
         alt="mobile phone"></img>
         <p className="card-text" align="center">Android: 169,755 views</p>
         <p className="card-text" align="center">iPhone: 136,374 views</p>
-        <p className="card-text" align="center">Windows: 3041 views</p>
-        <p className="card-text" align="center">Blackberry: 1343 views</p>
+        <p className="card-text" align="center">Windows: 3,041 views</p>
+        <p className="card-text" align="center">Blackberry: 1,343 views</p>
 
       </div>
       </div>
@@ -53,7 +53,7 @@ export default function Devices() {
         <img className="card-img-top"src="https://images.unsplash.com/photo-1535223289827-42f1e9919769?ixlib=rb-0.3.5&s=112fb2b413762c29f7fa1c8466823519&auto=format&fit=crop&w=400&q=60"
         alt="game console"></img>
         <p className="card-text" align="center">Playstation: 9,210 views</p>
-        <p className="card-text" align="center">XBOX: 7008 views</p>
+        <p className="card-text" align="center">XBOX: 7,008 views</p>
         <p className="card-text" align="center">Wii: 686 views</p>
       </div>
       </div>
@@ -66,8 +66,8 @@ export default function Devices() {
         <img className="card-img-top"src="https://images.unsplash.com/photo-1441095179793-e2c059a90f56?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b5a07494f3b33f51153673f228fe9e9b&auto=format&fit=crop&w=1350&q=80"
         alt ="television"></img>
         <p className="card-text" align="center">Smart TV: 13,318 views</p>
-        <p className="card-text" align="center">Chromecast: 4695 views</p>
-        <p className="card-text" align="center">Android TV: 1287 views</p>
+        <p className="card-text" align="center">Chromecast: 4,695 views</p>
+        <p className="card-text" align="center">Android TV: 1,287 views</p>
       </div>
       </div>
       </div>
