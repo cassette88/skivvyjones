@@ -9,6 +9,7 @@ export default function Countries() {
     <div style={divStyle}>
    
       <div className="row">
+      <div className= "col-lg-12" align="center"><h2>My work has been viewed here:</h2></div>
       <div className="col-lg-4 col-md-6 col-sm-6" align="center">
         <p>Sweden</p>
           <img src={require('../png250px/se.png')} alt="Irish flag"/>

@@ -5,6 +5,7 @@ export default function Sites() {
     <div>
 
    <div className="row">
+   <div className= "col-lg-12" align="center"><h2>My work has appeared here:</h2></div>
    <div className="col-lg-4 col-md-6 col-sm-6 align-self-center">
       <a href="http://www.sfweekly.com/"><img className="img-fluid" src={require('../img/SF-Weekly-Logo.jpg')} alt="SF Weekly logo"/></a>
         <p>SF Weekly</p>
