@@ -9,7 +9,7 @@
     "mdbreact": "^5.0.1",
     "popper.js": "^1.14.5",
     "react": "^16.6.3",
-    "react-dom": "^16.6.3",
+    "react-dom": "^16.13.0",
     "react-scripts": "4.0.1"
   },
   "scripts": {
